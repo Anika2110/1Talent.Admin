@@ -1,0 +1,1 @@
+select DomainId,DomainName,Description from Ref.Domain where DomainId=@DomainId;

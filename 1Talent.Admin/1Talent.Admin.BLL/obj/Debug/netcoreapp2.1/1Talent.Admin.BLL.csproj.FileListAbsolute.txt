@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.BLL.deps.json
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.BLL.dll
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.BLL.pdb
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.DAL.dll
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.DTO.dll
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.DAL.pdb
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\bin\Debug\netcoreapp2.1\1Talent.Admin.DTO.pdb
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.AssemblyInfo.cs
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.csproj.CopyComplete
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.dll
+C:\Users\admin\source\repos\1Talent.Admin\1Talent.Admin.BLL\obj\Debug\netcoreapp2.1\1Talent.Admin.BLL.pdb

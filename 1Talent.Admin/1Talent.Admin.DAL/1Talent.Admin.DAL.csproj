@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_1Talent.Admin.DAL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repository\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Query\Designation\DesignationDelete.sql" />
+    <None Remove="Query\Domain\DomainSelect.sql" />
+    <None Remove="Query\Domain\DomainSelectAll.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Query\Designation\DesignationDelete.sql" />
+    <EmbeddedResource Include="Query\Domain\DomainSelectAll.sql" />
+    <EmbeddedResource Include="Query\Domain\DomainSelect.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
+    <PackageReference Include="OneRPP.Restful.DAO" Version="0.0.1-Beta-1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\1Talent.Admin.DTO\1Talent.Admin.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

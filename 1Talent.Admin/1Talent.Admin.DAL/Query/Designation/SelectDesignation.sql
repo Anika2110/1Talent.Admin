@@ -1,0 +1,1 @@
+﻿select DesignationId from Designation where DesignationId=@DesignationId and DeletedDate Is NULL;

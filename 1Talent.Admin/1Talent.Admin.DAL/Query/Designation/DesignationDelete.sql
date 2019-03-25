@@ -1,0 +1,1 @@
+update Ref.Designation set DeletedDate=GETDATE() OUTPUT deleted.DesignationId, deleted.DesignationTitle where DesignationId=@DesignationId;

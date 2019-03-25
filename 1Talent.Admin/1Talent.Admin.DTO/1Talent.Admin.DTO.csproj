@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_1Talent.Admin.DTO</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OneRPP.Restful.DataAnnotations" Version="0.0.3-Beta-1" />
+  </ItemGroup>
+
+</Project>
